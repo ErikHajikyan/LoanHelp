@@ -6,7 +6,7 @@ Who is the audience? – People who want to have a quick access to their loans i
 Why the auidence need this program ? – It will give the information they need without calling or visiting their bank.
 When? – At the end of the semester.
 What? – Python application.
-How? – Python(OOP, Linked lists, date&time library)
+How? – Python
 
 Overview: 
 
