@@ -1,0 +1,29 @@
+Welcome to **LoanHelp**
+
+Overview
+_______________
+Overview: 
+The application LoanHelp will give an opportunity to its users to 
+have a quick access to all their loans info. 
+The info contains – amount, percentage, type, taken date, next payment date, period, monthly payment amount, status of the loan.
+There are two types of loans in Armenia. 
+First – the user pays with formula ( (percent*total)/100 + total/period) monthly while the period is not finished. 
+Second – the user pays with formula (percent * total/100) monthly while he/she is not able to pay the total amount.
+
+How to use:
+1)Open the porgram. (LoanHelp)
+2)Creat a user in the Main()
+e.i -- user1 = User("name","surname","id")
+4)Add a loan to user
+Add loans by using method addLoan(). The mothod should have-
+1.amount - enter the amount of the loan(only integers)
+2.percent - enter the percentage that loan has(only integers)
+3.type - "Monthly percent/Full payment" or "Part from loan and percent"
+4.period - enter the period of months you should pay the loan(only integers)
+5.date_taken - enter the month using this format (datetime.date(year,month,day)
+6.status - Please enter "None" of the loan is not paid
+7.id - Please choose an id for your loan
+6)At the end signIn with the user that you have created.
+e.i. user1.SignIn
+7)You will see 6 options. Just choose the one you need.
+Thank you for using LoanHelp :)
