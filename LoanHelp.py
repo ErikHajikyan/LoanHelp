@@ -199,16 +199,8 @@ def main():
     print "**LoanHelp**""\n"
     user1 = User("Erik","Hajikyan","A1")
     user1.addLoan("300000","30","Part from loan and percent","3",datetime.date(2018, 3, 6),"","2")
-<<<<<<< HEAD
     user2 = User("Lina","Gharagyozyan","A2")
     user2.addLoan("1231231231","50","Monthly percent/Full payment","40",datetime.date(2018, 3, 6),"","2")
     user1.signIn()
     user2.signIn()
 main()
-=======
-    user2 = User("A","B","A2")
-    user2.addLoan("1231231231","50","Monthly percent/Full payment","40",datetime.date(2018, 3, 6),"","2")
-    user1.signIn()
-
-main()
->>>>>>> origin/master
