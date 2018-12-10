@@ -21,4 +21,4 @@ User Problems Solved:
 User need: Access to the loan without visiting their bank. Sollution - The porgram has all the nessecary information about yout loans.
 User need: Access to the loan without internet connection. Sollution - The program doesn't require internet connection.
 
-User stories: Sometimes people confuse the dates of their loans. The method ManageTime() will set the next payment date for the user.
+User stories: Sometimes people confuse the dates of their loans. The program will show the next payment date for each loan.
